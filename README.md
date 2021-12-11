@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Logo GamePlay" title="GamePlay" src=".github/logo-gameplay.svg" width="230px" />
+  <img alt="Logo GamePlay" title="GamePlay" src="https://github.com/vbuarque/nlw-gameplay/blob/main/assets/icon.png" width="230px" />
 </p>
 
 <p align="center">
