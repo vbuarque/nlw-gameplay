@@ -84,4 +84,4 @@ então leia o QR Code pelo Expo Go ou entre por um emulador.
 ## :page_with_curl: Licença
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
 
-[![image](https://img.shields.io/badge/-Vinicius%20Buarque-blue,%202021-LinkedIn-009973?style=flat-square)](https://www.linkedin.com/in/mariagabrielareis/)
+[![image](https://img.shields.io/badge/-Vinicius%20Buarque-blue)](https://www.linkedin.com/in/mariagabrielareis/)
