@@ -42,11 +42,10 @@ As seguintes tecnologias e ferramentas estão sendo utilizadas neste projeto:
 <span id="demo">
   
 ## :iphone: Demonstração
-Abaixo é possível encontrar uma demonstração das telas e funcionalidades do projeto desenvolvido, com a alteração de cores e algumas imagens, mas se quiser 
-conferir o layout original das telas, é só acessar [este link](https://www.figma.com/file/0kv33XYjvOgvKGKHBaiR07/GamePlay---NLW-Together/duplicate) para o projeto no Figma.
+Abaixo é possível encontrar uma demonstração das telas e funcionalidades do projeto desenvolvido, se quiser conferir o layout das telas, é só acessar [este link](https://www.figma.com/file/0kv33XYjvOgvKGKHBaiR07/GamePlay---NLW-Together/duplicate) para o projeto no Figma.
   
 <p align="center">
-  <img alt="Demonstração" src=".github/demo-com-melhorias.gif" width="230px" />
+  <img alt="Demonstração" src="" width="230px" />
 </p>
 
 <span id="requisitos">
